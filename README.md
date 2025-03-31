@@ -30,3 +30,7 @@ npm run build # or yarn build
 npm start # or yarn start
 
 Good APIs keys missing. i don't have access key. i created a dommy access key so you can see the ui.
+
+FOR THE NAVIGATION FOR YOU TO SEE THE OTHER PAGE
+https://bundo-kappa.vercel.app/
+https://bundo-kappa.vercel.app/businesslocation
